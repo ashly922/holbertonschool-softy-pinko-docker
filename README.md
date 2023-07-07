@@ -1,1 +1,1 @@
-# holbertonschool-softy-pinko-docker
+This repository contains first works with docker and its beautiful containers.
