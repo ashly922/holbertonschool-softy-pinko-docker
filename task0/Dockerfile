@@ -7,4 +7,4 @@ COPY . .
 RUN apt-get update && \
     apt-get upgrade -y
 
-CMD [task0]
+CMD echo "Hello, World!"
